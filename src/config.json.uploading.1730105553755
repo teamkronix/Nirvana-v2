@@ -1,7 +1,7 @@
 {
   "token": "",
   "testToken": "",
-  "owners": ["810818118322225152"],
+  "owners": [""],
   "use_cache": false,
   "mongo_uri": "mongodb+srv://makimamommy25:pr662199@cluster0.bakzu.mongodb.net/",
   "topggapi": "",
