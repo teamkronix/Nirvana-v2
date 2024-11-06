@@ -1,0 +1,40 @@
+export var Emoji;
+(function (Emoji) {
+    Emoji["pause"] = "\u23F8\uFE0F";
+    Emoji["resume"] = "\u25B6\uFE0F";
+    Emoji["previous"] = "\u23EE\uFE0F";
+    Emoji["skip"] = "\u23ED\uFE0F";
+    Emoji["queue"] = "\uD83C\uDFB6";
+    Emoji["stop"] = "\u23F9\uFE0F";
+    Emoji["shuffle"] = "\uD83D\uDD00";
+    Emoji["loop"] = "\uD83D\uDD01";
+    Emoji["Qfilters"] = "\uD83C\uDFA7";
+    Emoji["lyrics"] = "\uD83C\uDFA4";
+    Emoji["vote"] = "\uD83D\uDC4D";
+    Emoji["invite"] = "\uD83D\uDD17";
+    Emoji["support"] = "\uD83C\uDD98";
+    // Userinfo badges
+    Emoji["staff"] = "\uD83D\uDEE1\uFE0F";
+    Emoji["partner"] = "\uD83E\uDD1D";
+    Emoji["BugHLevel1"] = "\uD83D\uDC1B";
+    Emoji["BugHLevel2"] = "\uD83D\uDC1B\uD83D\uDC1B";
+    Emoji["hypesquad"] = "\uD83C\uDF89";
+    Emoji["HyperSquadBravery"] = "\u2694\uFE0F";
+    Emoji["HyperSquadBrilliance"] = "\uD83D\uDCA1";
+    Emoji["HyperSquadBalance"] = "\u2696\uFE0F";
+    Emoji["Earlysup"] = "\uD83D\uDC8E";
+    Emoji["Verifiedbot"] = "\uD83E\uDD16";
+    Emoji["VerifiedDev"] = "\uD83D\uDC68\u200D\uD83D\uDCBB";
+    Emoji["CertifiedMod"] = "\uD83D\uDC6E";
+    Emoji["ActiveDev"] = "\uD83D\uDC68\u200D\uD83D\uDCBB";
+    Emoji["online"] = "\uD83D\uDFE2";
+    Emoji["dnd"] = "\uD83D\uDD34";
+    Emoji["idle"] = "\uD83D\uDFE0";
+    Emoji["invisible"] = "\u26AA";
+    Emoji["tick"] = "\u2714\uFE0F";
+    Emoji["cross"] = "\u274C";
+    Emoji["home"] = "\uD83C\uDFE0";
+    Emoji["premium"] = "\uD83D\uDC51";
+    Emoji["steal"] = "\u23F3";
+})(Emoji || (Emoji = {}));
+//# sourceMappingURL=Emotes.utils.js.map

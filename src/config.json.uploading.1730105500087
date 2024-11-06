@@ -1,0 +1,44 @@
+{
+  "token": "",
+  "testToken": "",
+  "owners": [],
+  "use_cache": false,
+  "mongo_uri": "",
+  "topggapi": "",
+  "prefix": "1",
+  "searchEngine": "yotube",
+  "maxQueueSize": 0,
+  "webhooks": {
+    "nodelog": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "player": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "error": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "command": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "misc": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "event": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "warn": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "logs": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "joins": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "leaves": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7"
+  },
+  "url": {
+    "helppage": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7",
+    "infopage": "https://discord.com/api/webhooks/1298109326837420072/9hAmgBzdy3jVp6vWWRWs-C9eF-ajvPgJR3NuEoq7DY0PpleciarCZw8g8G92GBZHs_x7"
+  },
+  "restApi": {
+    "port": 0
+  },
+  "redis": {
+    "host": "",
+    "port": 0,
+    "db": 0
+  },
+  "nodes": [
+    {
+      "name": "",
+      "url": "",
+      "auth": "",
+      "secure": false
+    }
+  ],
+  "logChannelId": ""
+}
