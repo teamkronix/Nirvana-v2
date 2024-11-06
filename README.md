@@ -2,9 +2,11 @@
 
 - **This code is provided free of cost to be used NOT TO BE RE-UPLOADED without credits.** 
 
+// ------- //
+
 - Contributors
- - bre4d77
- - snow.ded
- - reversekronix
+  - bre4d77
+  - snow.ded
+  - reversekronix
 
 Happy Coding/Skidding bye y'all.
