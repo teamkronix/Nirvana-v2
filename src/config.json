@@ -1,13 +1,13 @@
 {
   "token": "",
   "testToken": "",
-  "owners": ["810818118322225152"],
+  "owners": [""],
   "use_cache": false,
   "mongo_uri": "",
   "topggapi": "",
   "prefix": "1",
-  "searchEngine": "yotube",
-  "maxQueueSize": 50,
+  "searchEngine": "ytsearch",
+  "maxQueueSize": 200,
   "webhooks": {
     "nodelog": "",
     "player": "",
@@ -34,9 +34,9 @@
   },
   "nodes": [
     {
-      "name": "Nodeprem.oppailober.fun:6993",
-      "url": "Nodeprem.oppailober.fun:6993",
-      "auth": "makima",
+      "name": "node.lewdhutao.my.eu.org:80",
+      "url": "lava-v4.ajieblogs.eu.org:80",
+      "auth": "https://dsc.gg/ajidevserver",
       "secure": false
     }
   ],
