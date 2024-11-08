@@ -5,12 +5,7 @@
   "main": "src/index",
   "type": "module",
   "scripts": {
-    "start": "node dist/index.js",
-    "dev": "ts-node .",
-    "clean": "rm -rf dist",
-    "lint:fix": "eslint . --fix --cache --ext .js,.jsx,.ts,.tsx",
-    "lint": "eslint . --cache --ext .js,.ts",
-    "build": "tsc"
+    "start": "node dist/index.js"
   },
   "repository": {
     "type": "git",
